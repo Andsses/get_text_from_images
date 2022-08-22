@@ -74,7 +74,7 @@ def clear_cache():
 	return
 
 def send_email():
-	sender = "text.from.images@gmail.com"  # it sets the email of the sender  : Sdhywy@sd PASSWORD
+	sender = "text.from.images@gmail.com"  # it sets the email of the sender 
 	addressee = "defoxec446@offsala.com"
 	message = "¡Hola, mundo!"
 
