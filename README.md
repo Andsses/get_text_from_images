@@ -1,5 +1,4 @@
 ## Description
-This project is published since I did not receive the payment from a scammer...
 
 Extracts text from a set of images and converts it to .docx
 All the .docx files will be added in a .zip where later the script will ask us if we want to send it by email
