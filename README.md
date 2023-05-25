@@ -1,21 +1,21 @@
-## Descripcion
-Este proyecto es publicado ya que no me llego el pago de un estafador...
+## Description
+This project is published since I did not receive the payment from a scammer...
 
-Extrae el texto de un conjunto de imagenes y lo convierte en .docx
-Todos los archivos .docx se añadiran en un .zip donde despues nos preguntara el script si queremos enviarlo por email
+Extracts text from a set of images and converts it to .docx
+All the .docx files will be added in a .zip where later the script will ask us if we want to send it by email
 
-## REQUIERE
+## REQUIRES
 * [Tesseract - OCR](https://github.com/UB-Mannheim/tesseract/wiki)
 
-## Como Usar
-Este proyecto funciona de la siguiente manera:
-* Convierte el texto estraido y lo guarda en un archivo .docx
-* Usa la tecnologia Tesseract - OCR.
-* Convierte todos los archivos .docx en un .zip
-* Enviar el .zip mediante STMP a un correo electronico
+## How to use
+This project works as follows:
+* Converts the extracted text and saves it to a .docx file
+* Use Tesseract - OCR technology.
+* Convert all .docx files into a .zip
+* Send the .zip via STMP to an email
 
-## Resumen
-En la carpeta images colocamos las imagenes que vamos queremos extraer el texto.
+## Summary
+In the images folder we place the images that we want to extract the text.
 
 ## Setup
 To run this project, install it locally using npm:
